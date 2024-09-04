@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"> 
 <img alt="SiYuan" src="https://b3log.org/images/brand/siyuan-128.png">
 <br>
 <em>重构你的思维</em>
